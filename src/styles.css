@@ -1,0 +1,41 @@
+
+:root{
+--branding-color:#6c63ff;;
+}
+
+body{
+text-align:center;
+}
+
+p{
+background:#f5f2fe;
+line-height:25px;
+text-align:center;
+font-size:15px;
+}
+
+img{
+    display:flex;
+}
+
+.hero{
+    text-align:center;
+}
+
+.work-section{
+    text-align:center;
+    margin:10px 10px 10px;
+    padding:25px;
+    display:flex;
+}
+
+.btn-outline {
+      background: var(--branding-color);
+  border-radius: 4px;
+  color: white;
+  font-size: 18px;
+  text-decoration:none;
+  line-height: 27px;
+  padding: 15px 30px;
+
+}
